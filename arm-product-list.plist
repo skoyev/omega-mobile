@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>30000</key>
+	<dict>
+		<key>30T32</key>
+		<dict>
+			<key>options</key>
+			<array>
+				<string>Carriage</string>
+				<string>Fork</string>
+			</array>
+			<key>forks</key>
+			<array>
+				<string>48&apos; Standard</string>
+				<string>60&apos;</string>
+				<string>72&apos;</string>
+				<string>84&apos;</string>
+				<string>96&apos;</string>
+			</array>
+			<key>additional options</key>
+			<array>
+				<string>Cabin</string>
+				<string>Air conditioning</string>
+				<string>Light Package B - Rear Flood light, Flashing Beacon</string>
+				<string>Light Package C - 2 Additional lights on Boom</string>
+				<string>Exterior Mirrors</string>
+				<string>Side Shift</string>
+				<string>Fork Positioner</string>
+				<string>Block Heater</string>
+				<string>Load Backrest</string>
+			</array>
+			<key>carriages</key>
+			<array>
+				<string>60&apos; Standard</string>
+				<string>48&apos;</string>
+				<string>84&apos;</string>
+				<string>98&apos;</string>
+			</array>
+			<key>specifications</key>
+			<dict>
+				<key>Capacity@24&apos;&apos; load centre (lbs)</key>
+				<string>30,000 (lbs)</string>
+				<key>Engine:Model</key>
+				<string>Turbo Diesel</string>
+				<key>Engine:Power@2200rpm</key>
+				<string>139 HP</string>
+				<key>Transmission</key>
+				<string>Powershift</string>
+				<key>Drive</key>
+				<string>4WD</string>
+				<key>Steering</key>
+				<string>2WS/4WS/Crab</string>
+				<key>Tire size</key>
+				<string>17.5x25-16ply</string>
+				<key>Ground clearence</key>
+				<string>20&apos;&apos;</string>
+				<key>Wheelbase</key>
+				<string>150&apos;&apos;</string>
+				<key>Overall length</key>
+				<string>255&apos;&apos;</string>
+				<key>Height to top</key>
+				<string>120&apos;&apos;</string>
+				<key>Max lift height</key>
+				<string>384&apos;&apos;</string>
+				<key>Max.forward reach</key>
+				<string>225&apos;&apos;</string>
+				<key>Max.vertical reach below grade</key>
+				<string>12&apos;&apos;</string>
+				<key>Max. boom angle</key>
+				<string>66°</string>
+				<key>Overall width</key>
+				<string>118&apos;&apos;</string>
+				<key>Turning radius</key>
+				<string>280&apos;&apos;</string>
+				<key>Travel speed</key>
+				<string>20 mph</string>
+				<key>Shipping weight</key>
+				<string>65,000 (lbs)</string>
+			</dict>
+			<key>series</key>
+			<string>ARM-XL SERIES</string>
+			<key>imgName</key>
+			<string>ARM-XL.png</string>
+			<key>description</key>
+			<string>This versatile telescopic handler can be used for many applications. A powerful powertrain, proportional hydraulic controls and a solid steel frame are just a few standard features. There are a wide variety of attachments also available for the ARM-XL Series.
+the duties of aisle truck, traditional forklift and sideloader. Equipment features include a hydrostatic drive system, a torsion resistant frame consisting of up to 8” thick steel plate and a ergonomically designed operator’s compartment. Spreader carriages are offered up to 30’ with outer fixed forks. Guide rollers can be added for specialty applications. The 4DML is an ideal series for handling long or normal loads that have to go from inside or outside, on to or off of racks and narrow aisles and doorways.</string>
+			<key>type</key>
+			<string>ARM</string>
+			<key>name</key>
+			<string>30T32</string>
+		</dict>
+	</dict>
+	<key>20000</key>
+	<dict>
+		<key>32&apos;</key>
+		<dict>
+			<key>20T32</key>
+			<dict>
+				<key>options</key>
+				<array>
+					<string>Carriage</string>
+					<string>Fork</string>
+				</array>
+				<key>forks</key>
+				<array>
+					<string>48&apos; Standard</string>
+					<string>60&apos;</string>
+					<string>72&apos;</string>
+					<string>84&apos;</string>
+					<string>96&apos;</string>
+				</array>
+				<key>additional options</key>
+				<array>
+					<string>Cabin</string>
+					<string>Air conditioning</string>
+					<string>Light Package B - Rear Flood light, Flashing Beacon</string>
+					<string>Light Package C - 2 Additional lights on Boom</string>
+					<string>Exterior Mirrors</string>
+					<string>Side Shift</string>
+					<string>Fork Positioner</string>
+					<string>Block Heater</string>
+					<string>Load Backrest</string>
+				</array>
+				<key>carriages</key>
+				<array>
+					<string>60&apos; Standard</string>
+					<string>48&apos;</string>
+					<string>84&apos;</string>
+					<string>98&apos;</string>
+				</array>
+				<key>specifications</key>
+				<dict>
+					<key>Capacity@24&apos;&apos; load centre (lbs)</key>
+					<string>20,000 (lbs)</string>
+					<key>Engine:Model</key>
+					<string>Turbo Diesel</string>
+					<key>Engine:Power@2200rpm</key>
+					<string>139 HP</string>
+					<key>Transmission</key>
+					<string>Powershift</string>
+					<key>Drive</key>
+					<string>4WD</string>
+					<key>Steering</key>
+					<string>2WS/4WS/Crab</string>
+					<key>Tire size</key>
+					<string>17.5x25-16ply</string>
+					<key>Ground clearence</key>
+					<string>20&apos;&apos;</string>
+					<key>Wheelbase</key>
+					<string>147&apos;&apos;</string>
+					<key>Overall length</key>
+					<string>252&apos;&apos;</string>
+					<key>Height to top</key>
+					<string>115&apos;&apos;</string>
+					<key>Max lift height</key>
+					<string>384&apos;&apos;</string>
+					<key>Max.forward reach</key>
+					<string>225&apos;&apos;</string>
+					<key>Max.vertical reach below grade</key>
+					<string>12&apos;&apos;</string>
+					<key>Max. boom angle</key>
+					<string>66°</string>
+					<key>Overall width</key>
+					<string>96&apos;&apos;</string>
+					<key>Turning radius</key>
+					<string>205&apos;&apos;</string>
+					<key>Travel speed</key>
+					<string>22 mph</string>
+					<key>Shipping weight</key>
+					<string>41,500 (lbs)</string>
+				</dict>
+				<key>series</key>
+				<string>ARM-XL SERIES</string>
+				<key>imgName</key>
+				<string>ARM-XL.png</string>
+				<key>description</key>
+				<string>This versatile telescopic handler can be used for many applications. A powerful powertrain, proportional hydraulic controls and a solid steel frame are just a few standard features. There are a wide variety of attachments also available for the ARM-XL Series.</string>
+				<key>type</key>
+				<string>ARM</string>
+				<key>name</key>
+				<string>20T32</string>
+			</dict>
+			<key>order</key>
+			<string>0</string>
+			<key>option</key>
+			<string>32&apos;</string>
+		</dict>
+		<key>42&apos;</key>
+		<dict>
+			<key>20T42</key>
+			<dict>
+				<key>options</key>
+				<array>
+					<string>Carriage</string>
+					<string>Fork</string>
+				</array>
+				<key>forks</key>
+				<array>
+					<string>48&apos; Standard</string>
+					<string>60&apos;</string>
+					<string>72&apos;</string>
+					<string>84&apos;</string>
+					<string>96&apos;</string>
+				</array>
+				<key>additional options</key>
+				<array>
+					<string>Cabin</string>
+					<string>Air conditioning</string>
+					<string>Light Package B - Rear Flood light, Flashing Beacon</string>
+					<string>Light Package C - 2 Additional lights on Boom</string>
+					<string>Exterior Mirrors</string>
+					<string>Side Shift</string>
+					<string>Fork Positioner</string>
+					<string>Block Heater</string>
+					<string>Load Backrest</string>
+				</array>
+				<key>carriages</key>
+				<array>
+					<string>60&apos; Standard</string>
+					<string>48&apos;</string>
+					<string>84&apos;</string>
+					<string>98&apos;</string>
+				</array>
+				<key>specifications</key>
+				<dict>
+					<key>Capacity@24&apos;&apos; load centre (lbs)</key>
+					<string>20,000 (lbs)</string>
+					<key>Engine:Model</key>
+					<string>Turbo Diesel</string>
+					<key>Engine:Power@2200rpm</key>
+					<string>139 HP</string>
+					<key>Transmission</key>
+					<string>Powershift</string>
+					<key>Drive</key>
+					<string>4WD</string>
+					<key>Steering</key>
+					<string>2WS/4WS/Crab</string>
+					<key>Tire size</key>
+					<string>17.5x25-16ply</string>
+					<key>Ground clearence</key>
+					<string>20&apos;&apos;</string>
+					<key>Wheelbase</key>
+					<string>147&apos;&apos;</string>
+					<key>Overall length</key>
+					<string>252&apos;&apos;</string>
+					<key>Height to top</key>
+					<string>115&apos;&apos;</string>
+					<key>Max lift height</key>
+					<string>504&apos;&apos;</string>
+					<key>Max.forward reach</key>
+					<string>342&apos;&apos;</string>
+					<key>Max.vertical reach below grade</key>
+					<string>12&apos;&apos;</string>
+					<key>Max. boom angle</key>
+					<string>66°</string>
+					<key>Overall width</key>
+					<string>96&apos;&apos;</string>
+					<key>Turning radius</key>
+					<string>205&apos;&apos;</string>
+					<key>Travel speed</key>
+					<string>20 mph</string>
+					<key>Shipping weight</key>
+					<string>42,500 (lbs)</string>
+				</dict>
+				<key>series</key>
+				<string>ARM-XL SERIES</string>
+				<key>imgName</key>
+				<string>ARM-XL.png</string>
+				<key>description</key>
+				<string>This versatile telescopic handler can be used for many applications. A powerful powertrain, proportional hydraulic controls and a solid steel frame are just a few standard features. There are a wide variety of attachments also available for the ARM-XL Series.</string>
+				<key>type</key>
+				<string>ARM</string>
+				<key>name</key>
+				<string>20T42</string>
+			</dict>
+			<key>order</key>
+			<string>1</string>
+			<key>option</key>
+			<string>42&apos;</string>
+		</dict>
+	</dict>
+	<key>16000</key>
+	<dict>
+		<key>16T32</key>
+		<dict>
+			<key>options</key>
+			<array>
+				<string>Carriage</string>
+				<string>Fork</string>
+			</array>
+			<key>forks</key>
+			<array>
+				<string>48&apos; Standard</string>
+				<string>60&apos;</string>
+				<string>72&apos;</string>
+				<string>84&apos;</string>
+				<string>96&apos;</string>
+			</array>
+			<key>additional options</key>
+			<array>
+				<string>Cabin</string>
+				<string>Air conditioning</string>
+				<string>Light Package B - Rear Flood light, Flashing Beacon</string>
+				<string>Light Package C - 2 Additional lights on Boom</string>
+				<string>Exterior Mirrors</string>
+				<string>Side Shift</string>
+				<string>Fork Positioner</string>
+				<string>Block Heater</string>
+				<string>Load Backrest</string>
+			</array>
+			<key>carriages</key>
+			<array>
+				<string>60&apos; Standard</string>
+				<string>48&apos;</string>
+				<string>84&apos;</string>
+				<string>98&apos;</string>
+			</array>
+			<key>specifications</key>
+			<dict>
+				<key>Capacity@24&apos;&apos; load centre (lbs)</key>
+				<string>16,000 (lbs)</string>
+				<key>Engine:Model</key>
+				<string>Turbo Diesel</string>
+				<key>Engine:Power@2200rpm</key>
+				<string>139 HP</string>
+				<key>Transmission</key>
+				<string>Powershift</string>
+				<key>Drive</key>
+				<string>4WD</string>
+				<key>Steering</key>
+				<string>2WS/4WS/Crab</string>
+				<key>Tire size</key>
+				<string>17.5x25-16ply</string>
+				<key>Ground clearence</key>
+				<string>20&apos;&apos;</string>
+				<key>Wheelbase</key>
+				<string>147&apos;&apos;</string>
+				<key>Overall length</key>
+				<string>252&apos;&apos;</string>
+				<key>Height to top</key>
+				<string>115&apos;&apos;</string>
+				<key>Max lift height</key>
+				<string>384&apos;&apos;</string>
+				<key>Max.forward reach</key>
+				<string>225&apos;&apos;</string>
+				<key>Max.vertical reach below grade</key>
+				<string>12&apos;&apos;</string>
+				<key>Max. boom angle</key>
+				<string>66°</string>
+				<key>Overall width</key>
+				<string>96&apos;&apos;</string>
+				<key>Turning radius</key>
+				<string>205&apos;&apos;</string>
+				<key>Travel speed</key>
+				<string>22 mph</string>
+				<key>Shipping weight</key>
+				<string>36,800 (lbs)</string>
+			</dict>
+			<key>series</key>
+			<string>ARM-XL SERIES</string>
+			<key>imgName</key>
+			<string>ARM-XL.png</string>
+			<key>description</key>
+			<string>This versatile telescopic handler can be used for many applications. A powerful powertrain, proportional hydraulic controls and a solid steel frame are just a few standard features. There are a wide variety of attachments also available for the ARM-XL Series.</string>
+			<key>type</key>
+			<string>ARM</string>
+			<key>name</key>
+			<string>16T32</string>
+		</dict>
+	</dict>
+	<key>12000</key>
+	<dict>
+		<key>32&apos;</key>
+		<dict>
+			<key>12T32</key>
+			<dict>
+				<key>options</key>
+				<array>
+					<string>Carriage</string>
+					<string>Fork</string>
+				</array>
+				<key>forks</key>
+				<array>
+					<string>48&apos; Standard</string>
+					<string>60&apos;</string>
+					<string>72&apos;</string>
+					<string>84&apos;</string>
+					<string>96&apos;</string>
+				</array>
+				<key>additional options</key>
+				<array>
+					<string>Cabin</string>
+					<string>Air conditioning</string>
+					<string>Light Package B - Rear Flood light, Flashing Beacon</string>
+					<string>Light Package C - 2 Additional lights on Boom</string>
+					<string>Exterior Mirrors</string>
+					<string>Side Shift</string>
+					<string>Fork Positioner</string>
+					<string>Block Heater</string>
+					<string>Load Backrest</string>
+				</array>
+				<key>carriages</key>
+				<array>
+					<string>60&apos; Standard</string>
+					<string>48&apos;</string>
+					<string>84&apos;</string>
+					<string>98&apos;</string>
+				</array>
+				<key>specifications</key>
+				<dict>
+					<key>Capacity@24&apos;&apos; load centre (lbs)</key>
+					<string>12,000</string>
+					<key>Engine:Model</key>
+					<string>Turbo Diesel</string>
+					<key>Engine:Power@2200rpm</key>
+					<string>139 HP</string>
+					<key>Transmission</key>
+					<string>Powershift</string>
+					<key>Drive</key>
+					<string>4WD</string>
+					<key>Steering</key>
+					<string>2WS/4WS/Crab</string>
+					<key>Tire size</key>
+					<string>17.5x25-16ply</string>
+					<key>Ground clearence</key>
+					<string>18&apos;&apos;</string>
+					<key>Wheelbase</key>
+					<string>123&apos;&apos;</string>
+					<key>Overall length</key>
+					<string>252&apos;&apos;</string>
+					<key>Height to top</key>
+					<string>115&apos;&apos;</string>
+					<key>Max lift height</key>
+					<string>384&apos;&apos;</string>
+					<key>Max.forward reach</key>
+					<string>225&apos;&apos;</string>
+					<key>Max.vertical reach below grade</key>
+					<string>16&apos;&apos;</string>
+					<key>Max. boom angle</key>
+					<string>73°</string>
+					<key>Overall width</key>
+					<string>99&apos;&apos;</string>
+					<key>Turning radius</key>
+					<string>195&apos;&apos;</string>
+					<key>Travel speed</key>
+					<string>17 mph</string>
+					<key>Shipping weight</key>
+					<string>33,400 (lbs)</string>
+				</dict>
+				<key>series</key>
+				<string>ARM-XL SERIES</string>
+				<key>imgName</key>
+				<string>ARM-XL.png</string>
+				<key>description</key>
+				<string>This versatile telescopic handler can be used for many applications. A powerful powertrain, proportional hydraulic controls and a solid steel frame are just a few standard features. There are a wide variety of attachments also available for the ARM-XL Series.</string>
+				<key>type</key>
+				<string>ARM</string>
+				<key>name</key>
+				<string>12T32</string>
+			</dict>
+			<key>order</key>
+			<string>0</string>
+			<key>option</key>
+			<string>32&apos;</string>
+		</dict>
+		<key>55&apos;</key>
+		<dict>
+			<key>12T55</key>
+			<dict>
+				<key>options</key>
+				<array>
+					<string>Carriage</string>
+					<string>Fork</string>
+				</array>
+				<key>forks</key>
+				<array>
+					<string>48&apos; Standard</string>
+					<string>60&apos;</string>
+					<string>72&apos;</string>
+					<string>84&apos;</string>
+					<string>96&apos;</string>
+				</array>
+				<key>additional options</key>
+				<array>
+					<string>Cabin</string>
+					<string>Air conditioning</string>
+					<string>Light Package B - Rear Flood light, Flashing Beacon</string>
+					<string>Light Package C - 2 Additional lights on Boom</string>
+					<string>Exterior Mirrors</string>
+					<string>Side Shift</string>
+					<string>Fork Positioner</string>
+					<string>Block Heater</string>
+					<string>Load Backrest</string>
+				</array>
+				<key>carriages</key>
+				<array>
+					<string>60&apos; Standard</string>
+					<string>48&apos;</string>
+					<string>84&apos;</string>
+					<string>98&apos;</string>
+				</array>
+				<key>specifications</key>
+				<dict>
+					<key>Capacity@24&apos;&apos; load centre (lbs)</key>
+					<string>12,000</string>
+					<key>Engine:Model</key>
+					<string>Turbo Diesel</string>
+					<key>Engine:Power@2200rpm</key>
+					<string>139 HP</string>
+					<key>Transmission</key>
+					<string>Powershift</string>
+					<key>Drive</key>
+					<string>4WD</string>
+					<key>Steering</key>
+					<string>2WS/4WS/Crab</string>
+					<key>Tire size</key>
+					<string>17.5x25-16ply</string>
+					<key>Ground clearence</key>
+					<string>18&apos;&apos;</string>
+					<key>Wheelbase</key>
+					<string>126&apos;&apos;</string>
+					<key>Overall length</key>
+					<string>276&apos;&apos;</string>
+					<key>Height to top</key>
+					<string>115&apos;&apos;</string>
+					<key>Max lift height</key>
+					<string>660&apos;&apos;</string>
+					<key>Max.forward reach</key>
+					<string>509&apos;&apos;</string>
+					<key>Max.vertical reach below grade</key>
+					<string>66&apos;&apos;</string>
+					<key>Max. boom angle</key>
+					<string>70°</string>
+					<key>Overall width</key>
+					<string>100&apos;&apos;</string>
+					<key>Turning radius</key>
+					<string>201&apos;&apos;</string>
+					<key>Travel speed</key>
+					<string>22 mph</string>
+					<key>Shipping weight</key>
+					<string>39,900 (lbs)</string>
+				</dict>
+				<key>series</key>
+				<string>ARM-XL SERIES</string>
+				<key>imgName</key>
+				<string>ARM-XL.png</string>
+				<key>description</key>
+				<string>This versatile telescopic handler can be used for many applications. A powerful powertrain, proportional hydraulic controls and a solid steel frame are just a few standard features. There are a wide variety of attachments also available for the ARM-XL Series.</string>
+				<key>type</key>
+				<string>ARM</string>
+				<key>name</key>
+				<string>12T55</string>
+			</dict>
+			<key>order</key>
+			<string>1</string>
+			<key>option</key>
+			<string>55&apos;</string>
+		</dict>
+	</dict>
+	<key>10000</key>
+	<dict>
+		<key>42&apos;</key>
+		<dict>
+			<key>10T42</key>
+			<dict>
+				<key>options</key>
+				<array>
+					<string>Carriage</string>
+					<string>Fork</string>
+				</array>
+				<key>forks</key>
+				<array>
+					<string>48&apos; Standard</string>
+					<string>60&apos;</string>
+					<string>72&apos;</string>
+					<string>84&apos;</string>
+					<string>96&apos;</string>
+				</array>
+				<key>additional options</key>
+				<array>
+					<string>Cabin</string>
+					<string>Air conditioning</string>
+					<string>Light Package B - Rear Flood light, Flashing Beacon</string>
+					<string>Light Package C - 2 Additional lights on Boom</string>
+					<string>Exterior Mirrors</string>
+					<string>Side Shift</string>
+					<string>Fork Positioner</string>
+					<string>Block Heater</string>
+					<string>Load Backrest</string>
+				</array>
+				<key>carriages</key>
+				<array>
+					<string>60&apos; Standard</string>
+				</array>
+				<key>specifications</key>
+				<dict>
+					<key>Capacity@24&apos;&apos; load centre</key>
+					<string>10,000 (lbs)</string>
+					<key>Engine:Model</key>
+					<string>Turbo Diesel</string>
+					<key>Engine:Power@2200rpm</key>
+					<string>74.5kW</string>
+					<key>Transmission</key>
+					<string>3sf/3sb</string>
+					<key>Drive</key>
+					<string>4WD</string>
+					<key>Steering</key>
+					<string>4WS</string>
+					<key>Tire size</key>
+					<string>14.0x24-12ply</string>
+					<key>Ground clearence</key>
+					<string>19&apos;&apos;</string>
+					<key>Wheelbase</key>
+					<string>121&apos;&apos;</string>
+					<key>Overall length</key>
+					<string>241&apos;&apos;</string>
+					<key>Height to top</key>
+					<string>112&apos;&apos;</string>
+					<key>Max lift height</key>
+					<string>42&apos;</string>
+					<key>Max.forward reach</key>
+					<string>366&apos;&apos;</string>
+					<key>Max.vertical reach below grade</key>
+					<string>61&apos;&apos;</string>
+					<key>Max. boom angle</key>
+					<string>73°</string>
+					<key>Overall width</key>
+					<string>100&apos;&apos;</string>
+					<key>Turning radius</key>
+					<string>187&apos;&apos;</string>
+					<key>Travel speed</key>
+					<string>22 mph</string>
+					<key>Shipping weight</key>
+					<string>28,600 (lbs)</string>
+				</dict>
+				<key>series</key>
+				<string>ARM SERIES</string>
+				<key>imgName</key>
+				<string>ARM.png</string>
+				<key>description</key>
+				<string>This versatile telescopic handler can be used for many applications. A powerful powertrain, proportional hydraulic controls and a solid steel frame are just a few standard features. There are a wide variety of attachments also available for the ARM Series.</string>
+				<key>type</key>
+				<string>ARM</string>
+				<key>name</key>
+				<string>10T42</string>
+			</dict>
+			<key>order</key>
+			<string>0</string>
+			<key>option</key>
+			<string>42&apos;</string>
+		</dict>
+		<key>55&apos;</key>
+		<dict>
+			<key>10T55</key>
+			<dict>
+				<key>options</key>
+				<array>
+					<string>Carriage</string>
+					<string>Fork</string>
+				</array>
+				<key>forks</key>
+				<array>
+					<string>48&apos; Standard</string>
+					<string>60&apos;</string>
+					<string>72&apos;</string>
+					<string>84&apos;</string>
+					<string>96&apos;</string>
+				</array>
+				<key>additional options</key>
+				<array>
+					<string>Cabin</string>
+					<string>Air conditioning</string>
+					<string>Light Package B - Rear Flood light, Flashing Beacon</string>
+					<string>Light Package C - 2 Additional lights on Boom</string>
+					<string>Exterior Mirrors</string>
+					<string>Side Shift</string>
+					<string>Fork Positioner</string>
+					<string>Block Heater</string>
+					<string>Load Backrest</string>
+				</array>
+				<key>carriages</key>
+				<array>
+					<string>60&apos; Standard</string>
+				</array>
+				<key>specifications</key>
+				<dict>
+					<key>Capacity@24&apos;&apos; load centre</key>
+					<string>10,000 (lbs)</string>
+					<key>Engine:Model</key>
+					<string>Turbo Diesel</string>
+					<key>Engine:Power@2200rpm</key>
+					<string>74.5kW</string>
+					<key>Transmission</key>
+					<string>3sf/3sb</string>
+					<key>Drive</key>
+					<string>4WD</string>
+					<key>Steering</key>
+					<string>4WS</string>
+					<key>Tire size</key>
+					<string>14.0x24-12ply</string>
+					<key>Ground clearence</key>
+					<string>19&apos;&apos;</string>
+					<key>Wheelbase</key>
+					<string>123&apos;&apos;</string>
+					<key>Overall length</key>
+					<string>252&apos;&apos;</string>
+					<key>Height to top</key>
+					<string>112&apos;&apos;</string>
+					<key>Max lift height</key>
+					<string>55&apos;</string>
+					<key>Max.forward reach</key>
+					<string>509&apos;&apos;</string>
+					<key>Max.vertical reach below grade</key>
+					<string>76&apos;&apos;</string>
+					<key>Max. boom angle</key>
+					<string>70°</string>
+					<key>Overall width</key>
+					<string>100&apos;&apos;</string>
+					<key>Turning radius</key>
+					<string>190&apos;&apos;</string>
+					<key>Travel speed</key>
+					<string>20 mph</string>
+					<key>Shipping weight</key>
+					<string>31,200 (lbs)</string>
+				</dict>
+				<key>series</key>
+				<string>ARM SERIES</string>
+				<key>imgName</key>
+				<string>ARM.png</string>
+				<key>description</key>
+				<string>This versatile telescopic handler can be used for many applications. A powerful powertrain, proportional hydraulic controls and a solid steel frame are just a few standard features. There are a wide variety of attachments also available for the ARM Series.</string>
+				<key>type</key>
+				<string>ARM</string>
+				<key>name</key>
+				<string>10T55</string>
+			</dict>
+			<key>order</key>
+			<string>1</string>
+			<key>option</key>
+			<string>55&apos;</string>
+		</dict>
+	</dict>
+	<key>8000</key>
+	<dict>
+		<key>36&apos; </key>
+		<dict>
+			<key>8T36</key>
+			<dict>
+				<key>options</key>
+				<array>
+					<string>Carriage</string>
+					<string>Fork</string>
+				</array>
+				<key>forks</key>
+				<array>
+					<string>48&apos; Standard</string>
+					<string>60&apos;</string>
+					<string>72&apos;</string>
+					<string>84&apos;</string>
+					<string>96&apos;</string>
+				</array>
+				<key>additional options</key>
+				<array>
+					<string>Cabin</string>
+					<string>Air conditioning</string>
+					<string>Light Package B - Rear Flood light, Flashing Beacon</string>
+					<string>Light Package C - 2 Additional lights on Boom</string>
+					<string>Exterior Mirrors</string>
+					<string>Side Shift</string>
+					<string>Fork Positioner</string>
+					<string>Block Heater</string>
+					<string>Load Backrest</string>
+				</array>
+				<key>carriages</key>
+				<array>
+					<string>60&apos; Standard</string>
+				</array>
+				<key>specifications</key>
+				<dict>
+					<key>Capacity@24&apos;&apos; load centre</key>
+					<string>8,000 (lbs)</string>
+					<key>Engine:Model</key>
+					<string>Turbo Diesel</string>
+					<key>Engine:Power@2200rpm</key>
+					<string>74.5kW</string>
+					<key>Transmission</key>
+					<string>3sf/3sb</string>
+					<key>Drive</key>
+					<string>4WD</string>
+					<key>Steering</key>
+					<string>4WS</string>
+					<key>Tire size</key>
+					<string>14.0x24-12ply</string>
+					<key>Ground clearence</key>
+					<string>19&apos;&apos;</string>
+					<key>Wheelbase</key>
+					<string>121&apos;&apos;</string>
+					<key>Overall length</key>
+					<string>241&apos;&apos;</string>
+					<key>Height to top</key>
+					<string>112&apos;&apos;</string>
+					<key>Max lift height</key>
+					<string>36&apos;</string>
+					<key>Max.forward reach</key>
+					<string>288&apos;&apos;</string>
+					<key>Max.vertical reach below grade</key>
+					<string>42&apos;&apos;</string>
+					<key>Max. boom angle</key>
+					<string>73°</string>
+					<key>Overall width</key>
+					<string>100&apos;&apos;</string>
+					<key>Turning radius</key>
+					<string>187&apos;&apos;</string>
+					<key>Travel speed</key>
+					<string>22 mph</string>
+					<key>Shipping weight</key>
+					<string>24,050 (lbs)</string>
+				</dict>
+				<key>series</key>
+				<string>ARM SERIES</string>
+				<key>imgName</key>
+				<string>ARM.png</string>
+				<key>description</key>
+				<string>This versatile telescopic handler can be used for many applications. A powerful powertrain, proportional hydraulic controls and a solid steel frame are just a few standard features. There are a wide variety of attachments also available for the ARM Series.</string>
+				<key>type</key>
+				<string>ARM</string>
+				<key>name</key>
+				<string>8T36</string>
+			</dict>
+			<key>order</key>
+			<string>0</string>
+			<key>option</key>
+			<string>36&apos;</string>
+		</dict>
+		<key>42&apos;</key>
+		<dict>
+			<key>8T42</key>
+			<dict>
+				<key>options</key>
+				<array>
+					<string>Carriage</string>
+					<string>Fork</string>
+				</array>
+				<key>forks</key>
+				<array>
+					<string>48&apos; Standard</string>
+					<string>60&apos;</string>
+					<string>72&apos;</string>
+					<string>84&apos;</string>
+					<string>96&apos;</string>
+				</array>
+				<key>additional options</key>
+				<array>
+					<string>Cabin</string>
+					<string>Air conditioning</string>
+					<string>Light Package B - Rear Flood light, Flashing Beacon</string>
+					<string>Light Package C - 2 Additional lights on Boom</string>
+					<string>Exterior Mirrors</string>
+					<string>Side Shift</string>
+					<string>Fork Positioner</string>
+					<string>Block Heater</string>
+					<string>Load Backrest</string>
+				</array>
+				<key>carriages</key>
+				<array>
+					<string>60&apos; Standard</string>
+				</array>
+				<key>specifications</key>
+				<dict>
+					<key>Capacity@24&apos;&apos; load centre</key>
+					<string>8,000 (lbs)</string>
+					<key>Engine:Model</key>
+					<string>Turbo Diesel</string>
+					<key>Engine:Power@2200rpm</key>
+					<string>74.5kW</string>
+					<key>Transmission</key>
+					<string>3sf/3sb</string>
+					<key>Drive</key>
+					<string>4WD</string>
+					<key>Steering</key>
+					<string>4WS</string>
+					<key>Tire size</key>
+					<string>14.0x24-12ply</string>
+					<key>Ground clearence</key>
+					<string>19&apos;&apos;</string>
+					<key>Wheelbase</key>
+					<string>121&apos;&apos;</string>
+					<key>Overall length</key>
+					<string>241&apos;&apos;</string>
+					<key>Height to top</key>
+					<string>112&apos;&apos;</string>
+					<key>Max lift height</key>
+					<string>42&apos;</string>
+					<key>Max.forward reach</key>
+					<string>366&apos;&apos;</string>
+					<key>Max.vertical reach below grade</key>
+					<string>61&apos;&apos;</string>
+					<key>Max. boom angle</key>
+					<string>73°</string>
+					<key>Overall width</key>
+					<string>100&apos;&apos;</string>
+					<key>Turning radius</key>
+					<string>187&apos;&apos;</string>
+					<key>Travel speed</key>
+					<string>22 mph</string>
+					<key>Shipping weight</key>
+					<string>27,400 (lbs)</string>
+				</dict>
+				<key>series</key>
+				<string>ARM SERIES</string>
+				<key>imgName</key>
+				<string>ARM.png</string>
+				<key>description</key>
+				<string>This versatile telescopic handler can be used for many applications. A powerful powertrain, proportional hydraulic controls and a solid steel frame are just a few standard features. There are a wide variety of attachments also available for the ARM Series.</string>
+				<key>type</key>
+				<string>ARM</string>
+				<key>name</key>
+				<string>8T42</string>
+			</dict>
+			<key>order</key>
+			<string>1</string>
+			<key>option</key>
+			<string>42&apos;</string>
+		</dict>
+	</dict>
+	<key>6000</key>
+	<dict>
+		<key>6T36</key>
+		<dict>
+			<key>options</key>
+			<array>
+				<string>Carriage</string>
+				<string>Fork</string>
+			</array>
+			<key>forks</key>
+			<array>
+				<string>48&apos; Standard</string>
+				<string>60&apos;</string>
+				<string>72&apos;</string>
+				<string>84&apos;</string>
+				<string>96&apos;</string>
+			</array>
+			<key>additional options</key>
+			<array>
+				<string>Cabin</string>
+				<string>Air conditioning</string>
+				<string>Light Package B - Rear Flood light, Flashing Beacon</string>
+				<string>Light Package C - 2 Additional lights on Boom</string>
+				<string>Exterior Mirrors</string>
+				<string>Side Shift</string>
+				<string>Fork Positioner</string>
+				<string>Block Heater</string>
+				<string>Load Backrest</string>
+			</array>
+			<key>carriages</key>
+			<array>
+				<string>60&apos; Standard</string>
+			</array>
+			<key>specifications</key>
+			<dict>
+				<key>Capacity@24&apos;&apos; load centre</key>
+				<string>6,000 (lbs)</string>
+				<key>Engine:Model</key>
+				<string>Turbo Diesel</string>
+				<key>Engine:Power@2200rpm</key>
+				<string>86HP</string>
+				<key>Transmission</key>
+				<string>3sf/3sb</string>
+				<key>Drive</key>
+				<string>4WD</string>
+				<key>Steering</key>
+				<string>4WS</string>
+				<key>Tire size</key>
+				<string>13x24-12ply</string>
+				<key>Ground clearence</key>
+				<string>483(mm)</string>
+				<key>Wheelbase</key>
+				<string>115&apos;&apos;</string>
+				<key>Overall length</key>
+				<string>211&apos;&apos;</string>
+				<key>Height to top</key>
+				<string>112&apos;&apos;</string>
+				<key>Max lift height</key>
+				<string>36&apos;</string>
+				<key>Max.forward reach</key>
+				<string>288&apos;&apos;</string>
+				<key>Max.vertical reach below grade</key>
+				<string>36&apos;&apos;</string>
+				<key>Max. boom angle</key>
+				<string>68°</string>
+				<key>Overall width</key>
+				<string>98&apos;&apos;</string>
+				<key>Turning radius</key>
+				<string>161&apos;&apos;</string>
+				<key>Travel speed</key>
+				<string>17 mph</string>
+				<key>Shipping weight</key>
+				<string>20,500 (lbs)</string>
+			</dict>
+			<key>series</key>
+			<string>ARM SERIES</string>
+			<key>imgName</key>
+			<string>ARM.png</string>
+			<key>description</key>
+			<string>This versatile telescopic handler can be used for many applications. A powerful powertrain, proportional hydraulic controls and a solid steel frame are just a few standard features. There are a wide variety of attachments also available for the ARM Series.</string>
+			<key>type</key>
+			<string>ARM</string>
+			<key>name</key>
+			<string>6T36</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
